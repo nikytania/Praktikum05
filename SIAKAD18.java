@@ -28,7 +28,6 @@ public class SIAKAD18 {
         System.out.print("Masukkan nilai ujian\t: ");
         nilaiUjian = sc.nextDouble();
 
-
         System.out.println("---------------------------Maka-------------------------------\n");
         nilaiAkhir = (nilaiKuis+nilaiTugas+nilaiUjian)/3;
         System.out.println("Mahasiwa dengan nama " +nama+ " NIM = " +nim+ " kelas "+kelas+ " No. absen = "+absen);

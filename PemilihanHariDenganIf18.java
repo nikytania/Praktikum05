@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PemilihanDenganIf18 {
+public class PemilihanHariDenganIf18 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -26,3 +26,4 @@ public class PemilihanDenganIf18 {
     }
     
 }
+
